@@ -5,17 +5,7 @@ Welcome! This is the source code for my personal portfolio website, designed to 
 
 ### ✨ **[View the Live Demo Here!](https://techieujjwal.github.io/portfolio/)** ✨
 
----
 
-## 🚀 Preview
-
-Here’s a live preview of the portfolio's features and animations!
-
-![Portfolio Preview GIF](preview.gif)
-
-*(Note: If you haven't created a GIF yet, you can use static screenshots here instead.)*
-
----
 
 ## 🌟 Features
 
@@ -41,26 +31,22 @@ This project was built using fundamental web technologies, with no frameworks in
 * **Font Awesome:** For the icons used throughout the site.
 * **Formspree:** For the backend handling of the contact form.
 
----
-
 ## 🛠️ Getting Started
 
 Want to run this project on your own machine? It's simple!
 
 1.  **Clone the repository:**
-    ```bash
+    
     git clone [https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git)
-    ```
+
 2.  **Navigate to the project directory:**
-    ```bash
+    
     cd portfolio
-    ```
+
 3.  **Open the website:**
     Simply open the `index.html` file in your favorite web browser.
 
 And that's it! No complex builds or dependencies needed.
-
----
 
 ## 📫 Let's Connect!
 
