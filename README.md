@@ -37,7 +37,7 @@ Want to run this project on your own machine? It's simple!
 
 1.  **Clone the repository:**
     
-    git clone [https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git)
+    git clone [[https://github.com/your-username/portfolio.git](https://github.com/your-username/portfolio.git](https://github.com/techieujjwal/portfolio))
 
 2.  **Navigate to the project directory:**
     
